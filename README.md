@@ -8,7 +8,7 @@ There is a lack of services that provide a quick and easy method of price matchi
 
 Patch allows users to retrieve price data of different products, along with a link to a product using just the UPC of a product.
 
-![Alt Text](https://static.wixstatic.com/media/59677a_11924368db6842f5bde03eaa3b22a51a~mv2.gif)
+
 ![Alt Text](https://github.com/laxitshahi/patch/tree/master/media/patch-gif.gif)
 
 
