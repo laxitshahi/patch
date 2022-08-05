@@ -6,7 +6,7 @@ There is a lack of services that provide a quick and easy method of price matchi
 ## What does it do?
 Patch allows users to retrieve price data of different products, along with a link to a product using just the UPC of a product.
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://static.wixstatic.com/media/59677a_11924368db6842f5bde03eaa3b22a51a~mv2.gif))
+![Alt Text](https://static.wixstatic.com/media/59677a_11924368db6842f5bde03eaa3b22a51a~mv2.gif)
 
 ## How was it built?
 The primary tools and technologies used in the tech stack include Python(Flask), Bootstrap, and Selenium. The page template, layout, and animations are all handled by bootstrap. Selenium is used to scrape price data of specific products. The data is then manipulated in the backend with python. The result is a simple application that requires a UPC input, returning prices among 3 popular retailers. 
